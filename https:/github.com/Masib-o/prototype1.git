@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>My journey to be a programmer</topic>
+ <meta>Masib-o's journey>
+ <style type="text/css">
+  body{
+     background-images:url(white.jpg);
+     background-size: cover;
+     background-repeat: no repeat;
+     }
+     </style>
+ 
+</head>
+<body>
+<h1>My life so far(-_-)</h1>
+
+<!-- really cool coding stuff -->
+
+ <p>I go by the name Shawn Masibo and as you probably have figured out I am an upcoming software developer. I am 14 yrs of age ;quiete young to code.
+ My journey started a few months back during the initial attack from the deadly virus. I started as just learning something new sort of exploring my capabilities 
+ but I know realize it is my destined path. </p>
+ <p>My life doesn't revolve around code however as I am a dedicated football player.(for others:soccer) Anyway, I am involved deeply in the sport and it takes up a large part
+ of my life.I have taken part in various competitios within Eastern Africa, winning most with my former team Firt Touch Soccer Kenya.</p>
+ <label for="response">
+ <input id="response" type="text" place holder="speak your mind">
+ </label>
+ <button type="submit">Submit</button>
+ </body>
+<footer>Thank you For your time</footer>
+</html>
